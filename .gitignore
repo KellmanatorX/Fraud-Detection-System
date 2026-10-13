@@ -1,0 +1,5 @@
+fraudTrain.csv
+fraudTest.csv
+card_lookup_PRIVATE.csv
+*.pkl
+.ipynb_checkpoints/

@@ -14,3 +14,5 @@ behaviour (amount, time, location) rather than generic rules.
 - `fraud_detection.ipynb` — full pipeline: preprocessing, model training,
   evaluation, and the scoring function used for testing individual
   transactions.
+
+- Final Final Project Code, the project code with comments and just Final Code Project (Without Comments)
